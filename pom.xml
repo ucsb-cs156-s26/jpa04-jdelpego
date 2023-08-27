@@ -1,7 +1,7 @@
 <project>
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>edu.ucsb.cs56</groupId>
+  <groupId>edu.ucsb.cs156</groupId>
   <artifactId>hello</artifactId>
   <version>1.0.0</version>
 
